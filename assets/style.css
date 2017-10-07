@@ -1,0 +1,18 @@
+.jumbotron{
+	text-align: center;
+	width:50%;
+	margin-left: 25%;
+}
+.panel-primary{
+	width:50%;
+	margin-left: 25%;
+}
+
+input{
+	width:100%;
+}
+#add-train{
+	padding:.5%;
+	margin-top:4%;
+	width:20%;
+}
